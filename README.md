@@ -1,4 +1,4 @@
 # Pjavel Theme
-This is a blender addon with my theme.
+This is a blender extension with my theme.
 
 ![screenshot](screenshot.png)
