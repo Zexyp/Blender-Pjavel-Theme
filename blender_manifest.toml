@@ -2,7 +2,7 @@ schema_version = "1.0.0"
 
 id = "pjavel_theme"
 version = "1.0.0"
-name = "Pjave Theme"
+name = "Pjavel Theme"
 tagline = "Green accent theme"
 maintainer = "Zexyp"
 type = "theme"
@@ -10,8 +10,8 @@ type = "theme"
 # # Optional: link to documentation, support, source files, etc
 # website = "https://extensions.blender.org/add-ons/my-example-package/"
 
-# # Optional: tag list defined by Blender and server, see:
-# # https://docs.blender.org/manual/en/dev/advanced/extensions/tags.html
+# Optional: tag list defined by Blender and server, see:
+# https://docs.blender.org/manual/en/dev/advanced/extensions/tags.html
 tags = ["Dark", "Colorful"]
 
 blender_version_min = "4.2.0"
@@ -60,13 +60,15 @@ license = [
 # files = "Import/export FBX from/to disk"
 # clipboard = "Copy and paste bone transforms"
 
-# # Optional: advanced build settings.
-# # https://docs.blender.org/manual/en/dev/advanced/extensions/command_line_arguments.html#command-line-args-extension-build
-# [build]
-# # These are the default build excluded patterns.
-# # You only need to edit them if you want different options.
-# paths_exclude_pattern = [
-#   "__pycache__/",
-#   "/.git/",
-#   "/*.zip",
-# ]
+# Optional: advanced build settings.
+# https://docs.blender.org/manual/en/dev/advanced/extensions/command_line_arguments.html#command-line-args-extension-build
+[build]
+# These are the default build excluded patterns.
+# You only need to edit them if you want different options.
+paths_exclude_pattern = [
+  "__pycache__/",
+  "/.git/",
+  "/*.zip",
+  "/assets/",
+  "README.md"
+]
