@@ -767,14 +767,14 @@
         line_numbers_background="#1d1d1d"
         selected_text="#4d4d4d"
         cursor="#71a8ff"
-        syntax_builtin="#e62e67"
-        syntax_symbols="#ff734d"
-        syntax_special="#689d06"
+        syntax_builtin="#e68e48"
+        syntax_symbols="#ffc56c"
+        syntax_special="#3dc2c2"
         syntax_preprocessor="#9c73e6"
         syntax_reserved="#c4753b"
         syntax_comment="#939393"
-        syntax_string="#e6d573"
-        syntax_numbers="#48d9e6"
+        syntax_string="#c3e88d"
+        syntax_numbers="#48c5e6"
         >
         <space>
           <ThemeSpaceGeneric
