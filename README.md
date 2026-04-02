@@ -15,3 +15,9 @@ Selection color was adjusted to make it a bit more seamless.
 
 ### Timeline panel (and others)
 Current frame cursor was kept with default color for better visibility.
+
+## Building
+If you want an extension you can use the following command.
+```
+blender --command extension build
+```
