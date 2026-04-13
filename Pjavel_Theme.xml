@@ -439,7 +439,7 @@
       <ThemeCommon>
         <anim>
           <ThemeCommonAnim
-            playhead="#4772b3"
+            playhead="#198080"
             preview_range="#a14d0066"
             scene_strip_range="#00000080"
             channels="#19808080"
@@ -820,7 +820,7 @@
         vector_node="#3c3c83"
         texture_node="#793600"
         shader_node="#146514"
-        script_node="#203c3c"
+        script_node="#003c3c"
         geometry_node="#007257"
         attribute_node="#1d2546"
         simulation_zone="#66416233"
@@ -845,8 +845,8 @@
     <outliner>
       <ThemeOutliner
         match="#337f33"
-        selected_highlight="#1d314d"
-        active="#154444"
+        selected_highlight="#184141"
+        active="#1e5c5c"
         selected_object="#e96a00"
         active_object="#ffaf29"
         edited_object="#8b5f16ff"
