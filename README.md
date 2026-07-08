@@ -1,5 +1,6 @@
 # Pjavel Theme
 <a href="https://extensions.blender.org/themes/pjavel-theme/">![](https://img.shields.io/badge/blender%20extensions-313131?style=for-the-badge&logo=blender)</a>
+<a href="https://github.com/Zexyp/Blender-Pjavel-Theme/releases">![](https://img.shields.io/github/v/release/Zexyp/Blender-Pjavel-Theme?style=for-the-badge)</a>
 
 Green accented theme with some darker backgrounds here and there.
 
