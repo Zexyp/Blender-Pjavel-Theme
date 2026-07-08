@@ -1,4 +1,6 @@
 # Pjavel Theme
+![](https://img.shields.io/badge/blender%20extension-313131?style=for-the-badge&logo=blender&link=https%3A%2F%2Fextensions.blender.org%2Fthemes%2Fpjavel-theme%2F)
+
 Green accented theme with some darker backgrounds here and there.
 
 <img src="assets/screenshot.png" width="50%" align="right">
